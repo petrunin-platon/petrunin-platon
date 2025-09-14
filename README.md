@@ -34,12 +34,13 @@ This journey is deeply personal—it's about building intellectual resilience an
 You can use this public key to verify my signatures or to send me encrypted messages.
 
 **Fingerprint:**
-`1172 2E3F 3D81 E85E 1F1B 39C3 89D5 BAF4 65F9 32AA`
+`1172 2E3F 3D81 E85E 1F1B  39C3 89D5 BAF4 65F9 32AA`
 
 [Download Key File (.asc)](https://github.com/petrunin-platon/petrunin-platon/blob/main/platon-petrunin-pubkey.asc)
 
-**Public Key:**
+***For 100% certainty on other platforms, feel free to issue a cryptographic challenge: ask me to sign a unique message (e.g., with the current date) using this PGP key. An impostor will not be able to do this.***
 
+**Public Key:**
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEaMZI4RYJKwYBBAHaRw8BAQdAH59NUjvmop/YgBT36QfMK0knNmceTJhBKGbn
@@ -61,7 +62,7 @@ lgcVEr8xCQ==
 
 ---
 
-### Привет! 👋 Я Платон.
+### Привет! 👋 Я Платон. (Russian version)
 
 В своей основе я — аналитик, движимый страстью к деконструкции. Будь то дизайн, автоматизация систем или просто интригующая загадка, мой подход всегда один: копнуть вглубь, понять структуру до самого основания и нащупать суть.
 
@@ -97,12 +98,13 @@ lgcVEr8xCQ==
 Вы можете использовать этот публичный ключ для проверки подлинности моих заявлений и файлов, а также для отправки мне зашифрованных сообщений.
 
 **Отпечаток (Fingerprint):**
-`1172 2E3F 3D81 E85E 1F1B 39C3 89D5 BAF4 65F9 32AA`
+`1172 2E3F 3D81 E85E 1F1B  39C3 89D5 BAF4 65F9 32AA`
 
 [Скачать файл ключа (.asc)](https://github.com/petrunin-platon/petrunin-platon/blob/main/platon-petrunin-pubkey.asc)
 
-**Публичный ключ:**
+***Для 100% уверенности в подлинности моего аккаунта на другой платформе, вы можете отправить мне "криптографический вызов": попросите меня подписать этим PGP-ключом уникальное сообщение (например, с текущей датой). Только настоящий владелец ключа сможет это сделать.***
 
+**Публичный ключ:**
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEaMZI4RYJKwYBBAHaRw8BAQdAH59NUjvmop/YgBT36QfMK0knNmceTJhBKGbn
