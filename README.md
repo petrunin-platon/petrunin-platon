@@ -15,7 +15,7 @@ This journey is deeply personal—it's about building intellectual resilience an
 ### Project: Opening Revelation
 *Please note: this project is currently on pause as I navigate through some challenges.*
 
-* **For English-speaking audience:** [Telegram](https://t.me/revelation_eng) • [YouTube](https://www.youtube.com/@OpeningRevelation) • [Medium](https://medium.com/@openingrevelation) • [Substack](https://openrevelation.substack.com) • [Facebook Group](https://www.facebook.com/groups/open.revelation.eng)
+**For English-speaking audience:** [Telegram](https://t.me/revelation_eng) • [YouTube](https://www.youtube.com/@OpeningRevelation) • [Medium](https://medium.com/@openingrevelation) • [Substack](https://openrevelation.substack.com) • [Facebook Group](https://www.facebook.com/groups/open.revelation.eng)
 
 ---
 
@@ -25,6 +25,8 @@ You can use this public key to verify my signatures or to send me encrypted mess
 
 **Fingerprint:**
 `1172 2E3F 3D81 E85E 1F1B  39C3 89D5 BAF4 65F9 32AA`
+
+[Download Key File (.asc)](https://github.com/petrunin-platon/petrunin-platon/blob/main/platon-petrunin-pubkey.asc)
 
 **Public Key:**
 
@@ -44,9 +46,9 @@ lgcVEr8xCQ==
 -----END PGP PUBLIC KEY BLOCK-----
 
 
+
 ---
----
----
+
 
 
 ### Привет! 👋 Я Платон.
@@ -66,7 +68,7 @@ lgcVEr8xCQ==
 ### Проект: Открывая Откровение
 *Обратите внимание: проект временно приостановлен, так как я прохожу через определенные трудности.*
 
-* **Для русскоязычной аудитории:** [Telegram](https://t.me/revelation_rus) • [YouTube](https://www.youtube.com/@revelation_rus) • [VK](https://vk.com/open_revelation) • [Дзен](https://dzen.ru/revelation_rus) • [Rutube](https://rutube.ru/channel/58937620/) • [Facebook-группа](https://www.facebook.com/groups/opening.revelation.rus/) • [Instagram](https://www.instagram.com/opening_revelation_rus/) • [Threads](https://www.threads.com/@opening_revelation_rus)
+**Для русскоязычной аудитории:** [Telegram](https://t.me/revelation_rus) • [YouTube](https://www.youtube.com/@revelation_rus) • [VK](https://vk.com/open_revelation) • [Дзен](https://dzen.ru/revelation_rus) • [Rutube](https://rutube.ru/channel/58937620/) • [Facebook-группа](https://www.facebook.com/groups/opening.revelation.rus/) • [Instagram](https://www.instagram.com/opening_revelation_rus/) • [Threads](https://www.threads.com/@opening_revelation_rus)
 
 ---
 
@@ -76,6 +78,8 @@ lgcVEr8xCQ==
 
 **Отпечаток (Fingerprint):**
 `1172 2E3F 3D81 E85E 1F1B  39C3 89D5 BAF4 65F9 32AA`
+
+[Скачать файл ключа (.asc)](https://github.com/petrunin-platon/petrunin-platon/blob/main/platon-petrunin-pubkey.asc)
 
 **Публичный ключ:**
 
