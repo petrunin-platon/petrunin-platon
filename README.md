@@ -41,6 +41,7 @@ You can use this public key to verify my signatures or to send me encrypted mess
 ***For 100% certainty on other platforms, feel free to issue a cryptographic challenge: ask me to sign a unique message (e.g., with the current date) using this PGP key. An impostor will not be able to do this.***
 
 **Public Key:**
+
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEaMZI4RYJKwYBBAHaRw8BAQdAH59NUjvmop/YgBT36QfMK0knNmceTJhBKGbn
@@ -105,6 +106,7 @@ lgcVEr8xCQ==
 ***Для 100% уверенности в подлинности моего аккаунта на другой платформе, вы можете отправить мне "криптографический вызов": попросите меня подписать этим PGP-ключом уникальное сообщение (например, с текущей датой). Только настоящий владелец ключа сможет это сделать.***
 
 **Публичный ключ:**
+
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEaMZI4RYJKwYBBAHaRw8BAQdAH59NUjvmop/YgBT36QfMK0knNmceTJhBKGbn
