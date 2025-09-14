@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Platon.
+### Hi there! 👋 I'm Platon. (English version)
 
 At my core, I'm driven by a passion for deconstruction and analysis. Whether it's design, system automation, or just a captivating mystery, my process is always the same: dive deep, understand its structure to the core, and find its essence.
 
@@ -10,12 +10,22 @@ This journey is deeply personal—it's about building intellectual resilience an
 
 ### Connect With Me
 
-[Personal YouTube](http://www.youtube.com/@platonpae) • [Telegram](https://t.me/PPetrunin) • [X (Twitter)](https://x.com/petrunin_platon) • [VK](https://vk.com/ppetrunin) • [Boosty](https://boosty.to/petrunin.platon) • [Instagram](https://www.instagram.com/petrunin_platon/) • [Threads](https://www.threads.com/@petrunin_platon) • [Facebook](https://www.facebook.com/platon.petrunin/)
+* 📺 **Personal YouTube:** [youtube.com/@platonpae](https://www.youtube.com/@platonpae)
+* ✈️ **Telegram:** [@PPetrunin](https://t.me/PPetrunin)
+* 🐦 **X (Twitter):** [@petrunin\_platon](https://x.com/petrunin_platon)
+* 🟦 **VK:** [@ppetrunin](https://vk.com/ppetrunin)
+* 🅱️ **Boosty:** [petrunin.platon](https://boosty.to/petrunin.platon)
+* 📸 **Instagram:** [@petrunin\_platon](https://www.instagram.com/petrunin_platon/)
+* ＠ **Threads:** [@petrunin\_platon](https://www.threads.com/@petrunin_platon)
+* 🔵 **Facebook:** [platon.petrunin](https://www.facebook.com/platon.petrunin/)
+* 👽 **Reddit:** [u/Scared-Shower746](https://www.reddit.com/user/Scared-Shower746/)
 
 ### Project: Opening Revelation
+*A project that synthesizes the wisdom of Christianity, esoteric knowledge, and practical principles of self-development to help find harmony with oneself and the world around.*
+\
 *Please note: this project is currently on pause as I navigate through some challenges.*
 
-**For English-speaking audience:** [Telegram](https://t.me/revelation_eng) • [YouTube](https://www.youtube.com/@OpeningRevelation) • [Medium](https://medium.com/@openingrevelation) • [Substack](https://openrevelation.substack.com) • [Facebook Group](https://www.facebook.com/groups/open.revelation.eng)
+* **For English-speaking audience:** [Telegram](https://t.me/revelation_eng) • [YouTube](https://www.youtube.com/@OpeningRevelation) • [Medium](https://medium.com/@openingrevelation) • [Substack](https://openrevelation.substack.com) • [Facebook Group](https://www.facebook.com/groups/open.revelation.eng)
 
 ---
 
@@ -24,7 +34,7 @@ This journey is deeply personal—it's about building intellectual resilience an
 You can use this public key to verify my signatures or to send me encrypted messages.
 
 **Fingerprint:**
-`1172 2E3F 3D81 E85E 1F1B  39C3 89D5 BAF4 65F9 32AA`
+`1172 2E3F 3D81 E85E 1F1B 39C3 89D5 BAF4 65F9 32AA`
 
 [Download Key File (.asc)](https://github.com/petrunin-platon/petrunin-platon/blob/main/platon-petrunin-pubkey.asc)
 
@@ -45,11 +55,11 @@ lgcVEr8xCQ==
 =txJ5
 -----END PGP PUBLIC KEY BLOCK-----
 
-
-
 ---
 
 
+
+---
 
 ### Привет! 👋 Я Платон.
 
@@ -63,12 +73,22 @@ lgcVEr8xCQ==
 
 ### Мои контакты и проекты
 
-[Личный YouTube](http://www.youtube.com/@platonpae) • [Telegram](https://t.me/PPetrunin) • [X (Twitter)](https://x.com/petrunin_platon) • [VK](https://vk.com/ppetrunin) • [Boosty](https://boosty.to/petrunin.platon) • [Instagram](https://www.instagram.com/petrunin_platon/) • [Threads](https://www.threads.com/@petrunin_platon) • [Facebook](https://www.facebook.com/platon.petrunin/)
+* 📺 **Личный YouTube:** [youtube.com/@platonpae](https://www.youtube.com/@platonpae)
+* ✈️ **Telegram:** [@PPetrunin](https://t.me/PPetrunin)
+* 🐦 **X (Twitter):** [@petrunin\_platon](https://x.com/petrunin_platon)
+* 🟦 **VK:** [@ppetrunin](https://vk.com/ppetrunin)
+* 🅱️ **Boosty:** [petrunin.platon](https://boosty.to/petrunin.platon)
+* 📸 **Instagram:** [@petrunin\_platon](https://www.instagram.com/petrunin_platon/)
+* ＠ **Threads:** [@petrunin\_platon](https://www.threads.com/@petrunin_platon)
+* 🔵 **Facebook:** [platon.petrunin](https://www.facebook.com/platon.petrunin/)
+* 👽 **Reddit:** [u/Scared-Shower746](https://www.reddit.com/user/Scared-Shower746/)
 
 ### Проект: Открывая Откровение
+*Проект, синтезирующий мудрость христианства, эзотерические знания и практические принципы саморазвития, чтобы помочь найти гармонию с собой и окружающим миром.*
+\
 *Обратите внимание: проект временно приостановлен, так как я прохожу через определенные трудности.*
 
-**Для русскоязычной аудитории:** [Telegram](https://t.me/revelation_rus) • [YouTube](https://www.youtube.com/@revelation_rus) • [VK](https://vk.com/open_revelation) • [Дзен](https://dzen.ru/revelation_rus) • [Rutube](https://rutube.ru/channel/58937620/) • [Facebook-группа](https://www.facebook.com/groups/opening.revelation.rus/) • [Instagram](https://www.instagram.com/opening_revelation_rus/) • [Threads](https://www.threads.com/@opening_revelation_rus)
+* **Для русскоязычной аудитории:** [Telegram](https://t.me/revelation_rus) • [YouTube](https://www.youtube.com/@revelation_rus) • [VK](https://vk.com/open_revelation) • [Дзен](https://dzen.ru/revelation_rus) • [Rutube](https://rutube.ru/channel/58937620/) • [Facebook-группа](https://www.facebook.com/groups/opening.revelation.rus/) • [Instagram](https://www.instagram.com/opening_revelation_rus/) • [Threads](https://www.threads.com/@opening_revelation_rus)
 
 ---
 
@@ -77,7 +97,7 @@ lgcVEr8xCQ==
 Вы можете использовать этот публичный ключ для проверки подлинности моих заявлений и файлов, а также для отправки мне зашифрованных сообщений.
 
 **Отпечаток (Fingerprint):**
-`1172 2E3F 3D81 E85E 1F1B  39C3 89D5 BAF4 65F9 32AA`
+`1172 2E3F 3D81 E85E 1F1B 39C3 89D5 BAF4 65F9 32AA`
 
 [Скачать файл ключа (.asc)](https://github.com/petrunin-platon/petrunin-platon/blob/main/platon-petrunin-pubkey.asc)
 
