@@ -34,7 +34,7 @@ This journey is deeply personal—it's about building intellectual resilience an
 You can use this public key to verify my signatures or to send me encrypted messages.
 
 **Fingerprint:**
-`1172 2E3F 3D81 E85E 1F1B  39C3 89D5 BAF4 65F9 32AA`
+`1172 2E3F 3D81 E85E 1F1B 39C3 89D5 BAF4 65F9 32AA`
 
 [Download Key File (.asc)](https://github.com/petrunin-platon/petrunin-platon/blob/main/platon-petrunin-pubkey.asc)
 
@@ -99,7 +99,7 @@ lgcVEr8xCQ==
 Вы можете использовать этот публичный ключ для проверки подлинности моих заявлений и файлов, а также для отправки мне зашифрованных сообщений.
 
 **Отпечаток (Fingerprint):**
-`1172 2E3F 3D81 E85E 1F1B  39C3 89D5 BAF4 65F9 32AA`
+`1172 2E3F 3D81 E85E 1F1B 39C3 89D5 BAF4 65F9 32AA`
 
 [Скачать файл ключа (.asc)](https://github.com/petrunin-platon/petrunin-platon/blob/main/platon-petrunin-pubkey.asc)
 
