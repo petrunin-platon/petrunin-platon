@@ -57,9 +57,16 @@ lgcVEr8xCQ==
 =txJ5
 -----END PGP PUBLIC KEY BLOCK-----
 
+
+Support:
+Boosty: https://boosty.to/petrunin.platon/donate
+YooMoney: https://bit.ly/HelpPlaton
+Telegram: https://t.me/tribute/app?startapp=dwT2
+
+***
 ---
 
-
+***
 
 ---
 
@@ -121,3 +128,11 @@ wVUJ+HlvWIpg5cP5UYiwAGy9PiqdAQCoqOwg8tSTdUFv9uOgkYdYa6STnXxSF9J4
 lgcVEr8xCQ==
 =txJ5
 -----END PGP PUBLIC KEY BLOCK-----
+
+Поддержка:
+Support:
+Boosty: https://boosty.to/petrunin.platon/donate
+YooMoney: https://bit.ly/HelpPlaton
+Telegram: https://t.me/tribute/app?startapp=dwT2
+
+***
