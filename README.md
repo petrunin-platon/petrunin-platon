@@ -60,13 +60,15 @@ lgcVEr8xCQ==
 
 Support:
 Boosty: https://boosty.to/petrunin.platon/donate
+
 YooMoney: https://bit.ly/HelpPlaton
+
 Telegram: https://t.me/tribute/app?startapp=dwT2
 
-***
+*
 ---
 
-***
+*
 
 ---
 
@@ -132,7 +134,9 @@ lgcVEr8xCQ==
 Поддержка:
 Support:
 Boosty: https://boosty.to/petrunin.platon/donate
+
 YooMoney: https://bit.ly/HelpPlaton
+
 Telegram: https://t.me/tribute/app?startapp=dwT2
 
-***
+*
