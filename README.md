@@ -63,6 +63,10 @@ Support:
 * YooMoney: https://bit.ly/HelpPlaton
 * Telegram: https://t.me/tribute/app?startapp=dwT2
 
+* BTC: bc1qsu52cvfn4aqcay3mjasyah4hcx73npqvn5re3p
+* ETH: 0x1e87D47a6Ae8c49508BCC33F1b74FBC27efCFDD5
+* TON: UQBbUHHTwR0ohPgZGCcUaClD_hE2wbCRH_EiHloIwOO2TMsF
+
 ---
 
 *
@@ -133,4 +137,8 @@ lgcVEr8xCQ==
 * YooMoney: https://bit.ly/HelpPlaton
 * Telegram: https://t.me/tribute/app?startapp=dwT2
 
+* BTC: bc1qsu52cvfn4aqcay3mjasyah4hcx73npqvn5re3p
+* ETH: 0x1e87D47a6Ae8c49508BCC33F1b74FBC27efCFDD5
+* TON: UQBbUHHTwR0ohPgZGCcUaClD_hE2wbCRH_EiHloIwOO2TMsF
+  
 ***
