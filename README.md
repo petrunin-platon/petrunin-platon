@@ -27,6 +27,9 @@ This journey is deeply personal—it's about building intellectual resilience an
 
 * **For English-speaking audience:** [Telegram](https://t.me/revelation_eng) • [YouTube](https://www.youtube.com/@OpeningRevelation) • [Medium](https://medium.com/@openingrevelation) • [Substack](https://openrevelation.substack.com) • [Facebook Group](https://www.facebook.com/groups/open.revelation.eng)
 
+### Project: n8n-knowledge-engine
+[![n8n-knowledge-engine](https://github-readme-stats.vercel.app/api/pin/?username=petrunin-platon&repo=n8n-knowledge-engine&theme=dark&show_owner=true)](https://github.com/petrunin-platon/n8n-knowledge-engine)
+
 ---
 
 ### 🔐 My Digital Signature (PGP Verification)
@@ -101,6 +104,9 @@ Support:
 *Обратите внимание: проект временно приостановлен, так как я прохожу через определенные трудности.*
 
 * **Для русскоязычной аудитории:** [Telegram](https://t.me/revelation_rus) • [YouTube](https://www.youtube.com/@revelation_rus) • [VK](https://vk.com/open_revelation) • [Дзен](https://dzen.ru/revelation_rus) • [Rutube](https://rutube.ru/channel/58937620/) • [Facebook-группа](https://www.facebook.com/groups/opening.revelation.rus/) • [Instagram](https://www.instagram.com/opening_revelation_rus/) • [Threads](https://www.threads.com/@opening_revelation_rus)
+
+### Проект автоматизации: n8n-knowledge-engine
+[![n8n-knowledge-engine](https://github-readme-stats.vercel.app/api/pin/?username=petrunin-platon&repo=n8n-knowledge-engine&theme=dark&show_owner=true)](https://github.com/petrunin-platon/n8n-knowledge-engine)
 
 ---
 
