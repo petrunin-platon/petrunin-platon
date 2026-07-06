@@ -69,7 +69,7 @@ Support:
 * BTC: bc1qsu52cvfn4aqcay3mjasyah4hcx73npqvn5re3p
 * ETH: 0x1e87D47a6Ae8c49508BCC33F1b74FBC27efCFDD5
 * TON (Telegram): UQDoNsciSVVKUxHQzkgwG6hCwOyuXGt-QCX8U7oxjPUmWi-8
-* USDT (Etherium): 0x1e87d47a6ae8c49508bcc33f1b74fbc27efcfdd5
+* USDT (Etherium): 0x1e87D47a6Ae8c49508BCC33F1b74FBC27efCFDD5
 * SOL (Solana): 8ArtkZsKcjTwRZ8NiNTdET5q6GXaWEUibwmSHDEMLKas
 
 ---
@@ -148,7 +148,7 @@ lgcVEr8xCQ==
 * BTC: bc1qsu52cvfn4aqcay3mjasyah4hcx73npqvn5re3p
 * ETH: 0x1e87D47a6Ae8c49508BCC33F1b74FBC27efCFDD5
 * TON (Telegram): UQDoNsciSVVKUxHQzkgwG6hCwOyuXGt-QCX8U7oxjPUmWi-8
-* USDT (Etherium): 0x1e87d47a6ae8c49508bcc33f1b74fbc27efcfdd5
+* USDT (Etherium): 0x1e87D47a6Ae8c49508BCC33F1b74FBC27efCFDD5
 * SOL (Solana): 8ArtkZsKcjTwRZ8NiNTdET5q6GXaWEUibwmSHDEMLKas
   
 ***
